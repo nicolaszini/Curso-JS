@@ -1,2 +1,2 @@
-// Eliminar de Local Storage
-localStorage.clear();
+console.log('no seas trolo man');
+
